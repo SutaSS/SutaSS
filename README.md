@@ -1,15 +1,20 @@
-<h2 align="left">Hi There👋! My name is Andika Saktidana Hernadi.</h2>
+<h2 align="left">Software Engineer Wannabe and a Geek 😊</h2>
+Hi there, I'm Andika Saktidana Hernadi.  
+I'm a passionate learner who loves building mobile apps with Flutter, exploring backend with Python and Java, and dreaming to become a full-fledged Software Engineer someday! 🚀
 
 ###
 
+<h2 align="left">Stats :</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SutaSS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=red&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SutaSS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=red&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SutaSS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SutaSS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdyeHRjcTM2ZHVmNmNncHVkajNldmYybG82NzBvcGRpcDZqb3hvbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26CYArmRFKookWwta/giphy.gif" />
+<h2 align="left">Tech stack :</h2>
+
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMyeTdud3l5ZjFteG1ya2p1MGNvMm1jc3FjcndocjR5NGlyeG96byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WUDGo9jYZzVt3DExhi/giphy.gif" />
 
 ###
 
@@ -24,6 +29,8 @@
 </div>
 
 ###
+
+<h2 align="left">Connect with me :</h2>
 
 <div align="left">
   <a href="https://www.instagram.com/andikahernadi/" target="_blank">
