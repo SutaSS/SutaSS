@@ -41,5 +41,4 @@ I'm a passionate learner who loves building mobile apps with Flutter, exploring 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=512&id=7gdY5qNXaKC0&format=png" height="30" alt="jetpack compose logo" />
 </div>
