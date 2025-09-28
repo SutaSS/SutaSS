@@ -4,7 +4,7 @@
 
 ---
 
-<h2 align="center">🚀 Futuristic GitHub Stats</h2>
+<h2 align="center">🚀 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SutaSS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="stats graph" />
