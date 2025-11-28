@@ -28,50 +28,30 @@
 
 <h2 align="center">⚙️ Tech Stack</h2>
 
-<div style="display: flex; justify-content: center;">
-
-  <table style="border: none; margin-right: 40px;">
-    <tr><th align="center">Languages</th></tr>
-    <tr><td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" /><br/>TypeScript
-    </td></tr>
-    <tr><td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" /><br/>Kotlin
-    </td></tr>
-    <tr><td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" /><br/>Java
-    </td></tr>
-    <tr><td align="center">
+<table align="center">
+  <tr>
+    <!-- LANGUAGES -->
+    <td align="center" style="padding: 20px; vertical-align: top;">
+      <h3>Languages</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" /><br/>TypeScript<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" /><br/>Kotlin<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" /><br/>Java<br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" /><br/>Python
-    </td></tr>
-  </table>
+    </td>
 
-  <table style="border: none;">
-    <tr><th align="center">Tools</th></tr>
-    <tr><td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" /><br/>React
-    </td></tr>
-    <tr><td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" /><br/>Next.js
-    </td></tr>
-    <tr><td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" /><br/>HTML5
-    </td></tr>
-    <tr><td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" /><br/>CSS3
-    </td></tr>
-    <tr><td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" /><br/>VSCode
-    </td></tr>
-    <tr><td align="center">
+    <td align="center" style="padding: 20px; vertical-align: top;">
+      <h3>Tools</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" /><br/>React<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" /><br/>Next.js<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" /><br/>HTML5<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" /><br/>CSS3<br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" /><br/>VSCode<br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" /><br/>Android Studio
-    </td></tr>
-  </table>
+    </td>
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://media1.giphy.com/media/WUDGo9jYZzVt3DExhi/giphy.gif" width="200"/>
-</div>
+    <!-- GIF -->
+    <td align="center" style="padding: 20px; vertical-align: middle;">
+      <img src="https://media1.giphy.com/media/WUDGo9jYZzVt3DExhi/giphy.gif" width="200"/>
+    </td>
+  </tr>
+</table>
