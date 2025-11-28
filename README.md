@@ -11,6 +11,13 @@
 
 ---
 
+<h2 align="center">📊 Contribution Graph</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SutaSS&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
 <h2 align="center">🚀 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SutaSS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="150" />
@@ -18,6 +25,7 @@
 </div>
 
 ---
+
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <table align="center">
@@ -57,7 +65,7 @@
 </td>
 
 <td align="center" width="40%">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMyeTdud3l5ZjFteG1ya2p1MGNvMm1jc3FjcndocjR5NGlyeG96byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WUDGo9jYZzVt3DExhi/giphy.gif" width="200"/>
+  <img src="https://media1.giphy.com/media/WUDGo9jYZzVt3DExhi/giphy.gif" width="200" />
 </td>
 
 </tr>
