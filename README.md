@@ -1,11 +1,17 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Andika+Saktidana+Hernadi;Software+Engineer+Wannabe+🚀;Front-End+%26+Mobile+Developer;Always+Learning+New+Tech+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Hi,+I'm+Andika+Saktidana+Hernadi;Front-End+%26+Mobile+Developer;Always+Learning+New+Tech+💡" />
 </h1>
 
 ---
 
-<h2 align="center">🚀 GitHub Stats</h2>
+<h2 align="center">🔥 Contribution Streak</h2>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SutaSS&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</div>
 
+---
+
+<h2 align="center">🚀 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SutaSS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SutaSS&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="150" />
@@ -13,17 +19,13 @@
 
 ---
 
-<h2 align="center">📈 Recent Activity</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SutaSS&theme=tokyo-night&hide_border=true&custom_title=Andika%20Saktidana%20Hernadi's%20Contribution%20Graph"/>
-</div>
-
----
-
 <h2 align="center">🛠️ Tech Stack</h2>
 
-### 🌐 **Languages**
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🌐 Languages  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img width="12" />
@@ -36,9 +38,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
 </div>
 
----
+</td>
+<td align="center" width="50%">
 
-### 🧰 **Tools**
+### 🧰 Tools  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img width="12" />
@@ -53,8 +56,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" />
 </div>
 
+</td>
+</tr>
+</table>
+
 ---
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMyeTdud3l5ZjFteG1ya2p1MGNvMm1jc3FjcndocjR5NGlyeG96byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WUDGo9jYZzVt3DExhi/giphy.gif" width="200"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMyeTdud3l5ZjFteG1ya2p1MGNvMm1jc3FjcndocjR5NGlyeG96byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WUDGo9jYZzVt3DExhi/giphy.gif" width="180" />
 </div>
