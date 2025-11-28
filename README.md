@@ -18,12 +18,11 @@
 </div>
 
 ---
-
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
+<td align="center" width="60%">
 
 ### 🌐 Languages  
 <div align="center">
@@ -38,8 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
 </div>
 
-</td>
-<td align="center" width="50%">
+<br/>
 
 ### 🧰 Tools  
 <div align="center">
@@ -57,11 +55,10 @@
 </div>
 
 </td>
+
+<td align="center" width="40%">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMyeTdud3l5ZjFteG1ya2p1MGNvMm1jc3FjcndocjR5NGlyeG96byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WUDGo9jYZzVt3DExhi/giphy.gif" width="200"/>
+</td>
+
 </tr>
 </table>
-
----
-
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMyeTdud3l5ZjFteG1ya2p1MGNvMm1jc3FjcndocjR5NGlyeG96byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WUDGo9jYZzVt3DExhi/giphy.gif" width="180" />
-</div>
