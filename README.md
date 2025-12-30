@@ -1,48 +1,26 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Hi,+I'm+Andika+Saktidana+Hernadi;Front-End+%26+Mobile+Developer;Always+Learning+New+Tech+💡" />
-</h1>
+<h1 align="center">Andika Saktidana Hernadi</h1>
+<p align="center">
+  Front-End & Mobile Developer · Informatics Engineering
+</p>
 
-<h2 align="center">🔥 Contribution Streak</h2>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SutaSS&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</div>
+---
 
-<h2 align="center">📊 Contribution Graph</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SutaSS&theme=tokyo-night&hide_border=true" />
-</div>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SutaSS&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SutaSS&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=SutaSS&theme=tokyonight&hide_border=true" />
+</p>
 
-<h2 align="center">🚀 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SutaSS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SutaSS&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="150" />
-</div>
+---
 
-<h2 align="center">⚙️ Tech Stack</h2>
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h3>Languages</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-      <br/>
-      <sub>TypeScript • Kotlin • Java • Python</sub>
-    </td>
-    <td align="center" width="33%">
-      <h3>Tools</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" />
-      <br/>
-      <sub>React • Next.js • HTML5 • CSS3 • VSCode • Android Studio</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://media1.giphy.com/media/WUDGo9jYZzVt3DExhi/giphy.gif" width="200"/>
-    </td>
-  </tr>
-</table>
+### ⚙️ Tech Stack
+<p align="center">
+  <strong>Languages</strong><br/>
+  TypeScript · Kotlin · Java · Python
+</p>
+
+<p align="center">
+  <strong>Frameworks & Tools</strong><br/>
+  React · Next.js · HTML5 · CSS3 · Android Studio · VS Code
+</p>
