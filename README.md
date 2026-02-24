@@ -2,10 +2,10 @@
 
 # Andika Saktidana Hernadi
 
-**Front-End & Mobile Developer · Informatics Engineering**
+**Software Developer · Informatics Engineering**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/andika-hernadi)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:andikasaktih@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andika-hernadi)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:andikasaktih@gmail.com)
 
 </div>
 
@@ -13,10 +13,10 @@
 
 ## 👋 About Me
 
-I'm an Informatics Engineering student at **Brawijaya University** with a strong interest in **Front-End and Mobile Development**.  
+I'm an Informatics Engineering student at **Brawijaya University** with a strong interest in **Web and Mobile Development**.  
 I enjoy building clean interfaces, learning new technologies, and turning ideas into usable products.
 
-- 🌱 Focused on **Front-End & Mobile Development**
+- 🌱 Focused on **Web & Mobile Development**
 - 🛠 Experience in academic and community-based projects
 - ⚡ Fun fact: I balance coding with sports
 
