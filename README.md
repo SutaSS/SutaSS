@@ -72,7 +72,7 @@ I enjoy building clean interfaces, learning new technologies, and turning ideas 
 <tr>
 <td>
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SutaSS&show_icons=true&theme=tokyonight&hide_border=true)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SutaSS&theme=tokyonight)
 
 </td>
 <td>
