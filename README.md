@@ -72,12 +72,12 @@ I enjoy building clean interfaces, learning new technologies, and turning ideas 
 <tr>
 <td>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SutaSS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SutaSS&show_icons=true&theme=tokyonight&hide_border=true)
 
 </td>
 <td>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SutaSS&theme=tokyonight&hide_border=true)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SutaSS&theme=tokyonight)
 
 </td>
 </tr>
