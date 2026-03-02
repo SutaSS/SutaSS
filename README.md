@@ -77,7 +77,7 @@ I enjoy building clean interfaces, learning new technologies, and turning ideas 
 </td>
 <td>
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SutaSS&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SutaSS&theme=tokyonight&hide_border=true)
 
 </td>
 </tr>
